@@ -92,7 +92,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'A wiki-like site for BlueFlamesDino',
+      message: 'A wiki-like site for BlueFlamesDino. Last updated Nov 7 2026.',
       copyright: '©️Never'
     },
 
