@@ -13,7 +13,7 @@ Oreo game was a random platformer I developed with Gdevelop for Android. This wa
 
 <img src="/OreoGameAndroidSubsystemInstalation.png">
 
-Screenshot from a 1-1 Mario recreation level in Oreo Game:
+### Screenshot from a 1-1 Mario recreation level in Oreo Game
 <img src="/OreoGame1-1.png">
 
 ## Schizo-Clicker
@@ -25,9 +25,15 @@ Schizo-Clicker would be a cookie clicker game, but during gameplay you would enc
 
 ## Guessle
 
-I had participated in [FBLA](https://fbla.org) competetions for my entire high-school experince, so 4 years. I competed with my friend for the last two years and the rest were on my own. The events I did each year were Computer Game and Simulation Programming, Computer Game and Simulation Programming, Computer Game and Simulation Programming, and then Coding and Programming. My first year for Computer Game and Simulation Programming we were tasked to create a word game with the given example of [Wordle](https://www.nytimes.com/games/wordle/index.html), so I created a game called Guessle that was more of a level based [Wordle](https://www.nytimes.com/games/wordle/index.html) puzzles. Each level would have a catogory of possible words that were chosen randomly on beggining that level, to complete a level you would have to guess the word in 5 trys like [Wordle](https://www.nytimes.com/games/wordle/index.html). The thing I loved about it the most was the art as I put a lot of effort into drawing an alive alphabet in pixel art. That game is lost media now along with the following year's game, I only have my memories of them. The following year's game was a basic RPG around the given topic with nothing really notable. Both of those games did not place anything.
+I had participated in [FBLA](https://fbla.org) competetions for my entire high-school experince, so 4 years. I competed with my friend for the last two years and the rest were on my own. The events I did each year were Computer Game and Simulation Programming, Computer Game and Simulation Programming, Computer Game and Simulation Programming, and then Coding and Programming. My first year for Computer Game and Simulation Programming we were tasked to create a word game with the given example of [Wordle](https://www.nytimes.com/games/wordle/index.html), so I created a game called Guessle that was more of a level based [Wordle](https://www.nytimes.com/games/wordle/index.html) puzzles. Each level would have a catogory of possible words that were chosen randomly on beggining that level, to complete a level you would have to guess the word in 5 trys like [Wordle](https://www.nytimes.com/games/wordle/index.html). The thing I loved about it the most was the art as I put a lot of effort into drawing an alive alphabet in pixel art. That game is lost media now, I only have my memories of it. This game did not place anything.
 
-There is an very incomplete old apk exported version of the RPG which can be found [here](https://drive.google.com/drive/folders/1q2rkCxAMSh2UbaHjXxWhUBfGvB-WWpCU?usp=drive_link) called FBLA Quest.
+## FBLA Quest (Unnamed RPG)
+FBLA Quest was a RPG game made for my second year in [FBLA](https://fbla.org). It is also lost media like [Guessle](#guessle), but I found that I still have an old export of it where I must of just finished the first level. The mechanics of spawning and being able to kill the skeletons is functional.
+
+### Screenshot
+<img src="/FBLA_QuestScreenshot.png">
+
+The very incomplete version of the RPG can be found [here](https://drive.google.com/drive/folders/1q2rkCxAMSh2UbaHjXxWhUBfGvB-WWpCU?usp=drive_link).
 
 ## Finder-Blue 
 
